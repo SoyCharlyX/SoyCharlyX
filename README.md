@@ -70,7 +70,7 @@
 
 </td></tr></table>
 
-[![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/mrabro)
+[![CharlyA10 Abro's github activity graph](https://github.com/CharlyA10)
 
 
 <div>
