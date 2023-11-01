@@ -9,6 +9,8 @@
 - 🎓 I learned to program from my mentor, who initiated this project called Futbolify. So, I've been learning and continue to learn while working on this social network.🚀
 - ☕ Coffee and programming enthusiast.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
