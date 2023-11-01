@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-### <div align="center">Hello, I'm Carlos "Charly" Alvarado, a Full Stack Developer🧑🏻‍💻❤️ 🚀</div>  
+### <div align="center">Hello, I'm Carlos "Charly" Alvarado, a Full Stack Developer🧑🏻‍💻❤️</div>  
   
 
 - 🇸🇻 I'm from El Salvador, 19 years old.
 - ⚽ Passionate about soccer and technology. 🧑🏻‍💻❤️⚽️
+- 🌐 I work on an exciting soccer social network (Futbolify) that combines my two greatest passions. It's the first soccer social network in the HISTORY of my country!📱
+- 🎓 I learned to program from my mentor, who initiated this project called Futbolify. So, I've been learning and continue to learn while working on this social network.🚀
 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
