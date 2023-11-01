@@ -83,7 +83,7 @@
   
  
 ## Futbolify post
-[img[See post](https://www.instagram.com/p/Cy_cvH1gsg8/?igshid=MzRlODBiNWFlZA==)
+[See post](https://www.instagram.com/p/Cy_cvH1gsg8/?igshid=MzRlODBiNWFlZA==)
 
 <br/>  
 
