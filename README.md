@@ -82,8 +82,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
  
-## Last Tweet
-[![Rafi Abro's Tweet](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/mrabro)
+## Futbolify post
+[![See post](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/mrabro)
 
 <br/>  
 
@@ -125,5 +125,5 @@
 
 
 ------
-Credit: [mrabro](https://github.com/CharlyA10)
+Credit: [Charly](https://github.com/CharlyA10)
 Last Edit: 31/10/2023
