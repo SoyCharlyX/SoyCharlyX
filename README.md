@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <div style="text-align: center; color: blue; font-size: 40px;">Hello, I'm Carlos "Charly" Alvarado, a Full Stack Developer🧑🏻‍💻❤️</div>
+### <div style="text-align: center; color: blue; font-size: 60px;">Hello, I'm Carlos "Charly" Alvarado, a Full Stack Developer🧑🏻‍💻❤️</div>
   
 
 - 🇸🇻 I'm from El Salvador, 19 years old.
