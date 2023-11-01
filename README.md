@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-### <div align="center">I'm Rafi, a full-time full-stack developer 👨‍💻 working since 2016 🚀</div>  
+### <div align="center">Hello, I'm Carlos "Charly" Alvarado, a Full Stack Developer🧑🏻‍💻❤️ 🚀</div>  
   
 
-- 🔭 Currently working on WordPress Custom Development  
-  
+- 🇸🇻 I'm from El Salvador, 19 years old.
+- ⚽ Passionate about soccer and technology. 🧑🏻‍💻❤️⚽️
 
-- 🌱 I’m always learning new things on the internet :)  
-  
-
-- ❓ Any questions? ask me, I'll be happy to answer :)  
-  
-
-- ⚡ Fun fact: I use tabs over spaces ;)  
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
