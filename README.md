@@ -100,7 +100,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/mrabro" target="_blank">
-<img src=https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
 </a>
 <a href="https://twitter.com/mrabro" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
