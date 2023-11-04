@@ -108,10 +108,10 @@
 <a href=https://www.facebook.com/profile.php?id=100090409093867&mibextid=2JQ9oc target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/carlos-alvarado10/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> 
 </a>
-<a href="https://www.linkedin.com/in/carlos-alvarado10/" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> 
 </a>
 </div>  
