@@ -54,7 +54,7 @@
 <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" alt="GitHub" height="50" /></a>
 <a href="https://git.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="Postman" height="50" /></a> 
-<a href="https://www.slackcom/" target="_blank"><img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/d6/b9/bcd6b9c9-766f-bd93-a4f2-cb0bc06f5431/electron.png/1200x630bb.png" alt="Slack" height="55" /></a>
+<a href="https://www.slackcom/" target="_blank"><img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/d6/b9/bcd6b9c9-766f-bd93-a4f2-cb0bc06f5431/electron.png/1200x630bb.png" alt="Slack" height="60" /></a>
 
 
 </td></tr></table>  
