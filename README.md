@@ -78,7 +78,7 @@ I am a Young Software Developer and content creator passionate about football an
 </td></tr></table>
 
 ## See project
-[See post](https://www.tiktok.com/@soycharly_devx/video/7347450881392102662?is_from_webapp=1&sender_device=pc&web_id=7334397615457830406)
+[Click here](https://www.tiktok.com/@soycharly_devx/video/7347450881392102662?is_from_webapp=1&sender_device=pc&web_id=7334397615457830406)
 <br/>
 <br/>
 <br/>
@@ -92,7 +92,7 @@ I am a Young Software Developer and content creator passionate about football an
   
  
 ## See more
-[See post](https://soycharlyx.blogspot.com/p/soy-charly.html)
+[Click here](https://soycharlyx.blogspot.com/p/soy-charly.html)
 
 <br/>  
 
