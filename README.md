@@ -77,8 +77,8 @@ I am a Young Software Developer and content creator passionate about football an
 
 </td></tr></table>
 
-## Futbolify post 
-[See post](https://m.facebook.com/story.php?story_fbid=pfbid0avEKJnMAhwCBR2eQyH4i8sbB7tKCmQvPFdPrMsxMgFRZaVSwMVBePcrig5gxPp7al&id=100090409093867&mibextid=2JQ9oc)
+## See project
+[See post](https://www.tiktok.com/@soycharly_devx/video/7347450881392102662?is_from_webapp=1&sender_device=pc&web_id=7334397615457830406)
 <br/>
 <br/>
 <br/>
@@ -91,8 +91,8 @@ I am a Young Software Developer and content creator passionate about football an
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
  
-## Futbolify post
-[See post](https://www.instagram.com/p/Cy_cvH1gsg8/?igshid=MzRlODBiNWFlZA==)
+## See more
+[See post](https://soycharlyx.blogspot.com/p/soy-charly.html)
 
 <br/>  
 
