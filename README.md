@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-## <div align="center" style="text-align: center; color: blue; font-size: 60px;">Hello, I'm Carlos "Charly" Alvarado, a Full Stack Developer🧑🏻‍💻❤️ <br> Dev X</div>
+## <div align="center" style="text-align: center; color: blue; font-size: 60px;">Hello, I'm Carlos "Charly" Alvarado, a Full Stack Developer🧑🏻‍💻❤️
 
   
 
 I am a Young Software Developer and content creator passionate about football and technology. In this space, I share my love for both worlds. 🧑🏻‍💻❤️⚽️
 
- - 🇸🇻 I'm from El Salvador, I'm 19 years old. 
+ - 🇸🇻 I'm from El Salvador, I'm 20 years old. 
 - ⚽ | Passionate about football, my inspiration to enter the world of technology. 💻⚽️ 
 - 🌐 I Work on an exciting video game that combines my two great passions. A version of eFootball PES! 🎮⚽️ 
 - 🎓 I Learned to program self-taught, doing projects and surrounding myself with people with more experience. So, I have been learning and continue to learn while working on personal projects and helping on projects of people who have given me confidence in their projects.🚀 
