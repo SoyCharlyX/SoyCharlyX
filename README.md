@@ -3,7 +3,7 @@
 ## <div align="center" style="text-align: center; color: blue; font-size: 60px;">Hello, I'm Carlos "Charly" Alvarado, a Full Stack Developer🧑🏻‍💻❤️
   
 
-I am a Young Software Developer and content creator passionate about football and technology. In this space, I share my love for both worlds. 🧑🏻‍💻❤️⚽️ 
+I am a Young Software Developer and content creator passionate about football and technology. In this space, I share my love for both worlds. 🧑🏻‍💻❤️⚽️
 
  - 🇸🇻 I'm from El Salvador, I'm 20 years old. 
 - ⚽ | Passionate about football, my inspiration to enter the world of technology. 💻⚽️
